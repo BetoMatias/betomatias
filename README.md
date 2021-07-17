@@ -25,6 +25,6 @@ Feel free to reach me if you wanna talk about any of these topics or about somet
 </a>
 <hr />
 
-<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=betomatias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betomatias&layout=compact&langs_count=7&theme=dracula"/>
+<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=betomatias&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betomatias&layout=compact&langs_count=7&theme=nightowl"/>
 
