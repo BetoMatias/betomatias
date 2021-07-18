@@ -7,7 +7,7 @@ Feel free to reach me if you wanna talk about any of these topics or about somet
 
 <p><img align="top" src="https://www.countryflags.io/br/shiny/24.png"> Native</p>
 <p><img align="top" src="https://www.countryflags.io/us/shiny/24.png"> Advanced</p>
-<p><img align="top" src="https://www.countryflags.io/jp/shiny/24.png"> Hiragana + Katakana, basic conversation.</p> 
+<p><img align="top" src="https://www.countryflags.io/jp/shiny/24.png"> Basic</p> 
 <hr />
 
 #### 📫 How to reach me:
